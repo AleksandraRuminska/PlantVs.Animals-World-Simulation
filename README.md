@@ -5,6 +5,6 @@ There is a specified number of turns, during which animals move and plants grow 
 
 Along with the preexisting animals and plants, new ones can be created on the empty field by clicking on it and choosing the species. There is an exception when it comes to human players - there can be only one on the board.
 
-The game was created for the classes at University. The code was written in Java with Swing.
+The game was created for the classes at University. The code was written in Java with Swing. The data about the animal attacks and plant growth are stored in the txt file.
 
 All the icons used in the games were created by me.
