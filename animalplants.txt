@@ -1,0 +1,4 @@
+TURN: 5
+sowthistle was defeated by: fox
+sowthistle was defeated by: sheep
+guarana was defeated by: antelope
